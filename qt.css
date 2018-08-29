@@ -1,10 +1,10 @@
 html, body, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldest, table, th, td, div {margin: 0; padding: 0; font-family: Arial, "Î¢ÈíÑÅºÚ", Georgia, "Hiragino Keku Gothic Pro"; font-size: 12px; font-weight: normal;}
 
 .viewBox{
-	background:url('../../images/wap/wap_qtym/home-t.png') no-repeat center bottom;
+	background:url('home-t.png') no-repeat center bottom;
 }
 .headerTop{
-	background: url('../../images/wap/wap_sy/home-logo.png') no-repeat;width:100%;height:55px;
+	background: url('home-logo.png') no-repeat;width:100%;height:55px;
 }
 
 .sou{
@@ -16,12 +16,12 @@ html, body, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, 
 }
 
 .shouButton{
-float:right;display:block;width:66px;height:45px;background: url('../../images/wap/wap_sy/home-can.png') no-repeat;cursor:pointer;letter-spacing:4px;text-align:center;line-height:45px;font-size:18px;font-weight:bold;color:#fff;
+float:right;display:block;width:66px;height:45px;background: url('home-can.png') no-repeat;cursor:pointer;letter-spacing:4px;text-align:center;line-height:45px;font-size:18px;font-weight:bold;color:#fff;
 
 }
 
 .tiantan{
-	background: url('../../images/wap/wap_sy/home-tt.png') no-repeat;height:167px;text-indent:-9999px;
+	background: url('home-tt.png') no-repeat;height:167px;text-indent:-9999px;
 }
 
 .home-cha{
