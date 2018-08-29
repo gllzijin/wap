@@ -1,0 +1,76 @@
+html, body, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldest, table, th, td, div {margin: 0; padding: 0; font-family: Arial, "Î¢ÈíÑÅºÚ", Georgia, "Hiragino Keku Gothic Pro"; font-size: 12px; font-weight: normal;}
+
+.viewBox{
+	background:url('../../images/wap/wap_qtym/home-t.png') no-repeat center bottom;
+}
+.headerTop{
+	background: url('../../images/wap/wap_sy/home-logo.png') no-repeat;width:100%;height:55px;
+}
+
+.sou{
+	width:100%;margin-bottom:40px;height:45px;margin:0 auto;padding-left:10px;
+}
+
+.name_code{
+	font-size: 14px; height:45px; line-height:45px; text-indent: 4px; color: #818181; border: 1px solid #b3bcc3;color:#777;width:200px;
+}
+
+.shouButton{
+float:right;display:block;width:66px;height:45px;background: url('../../images/wap/wap_sy/home-can.png') no-repeat;cursor:pointer;letter-spacing:4px;text-align:center;line-height:45px;font-size:18px;font-weight:bold;color:#fff;
+
+}
+
+.tiantan{
+	background: url('../../images/wap/wap_sy/home-tt.png') no-repeat;height:167px;text-indent:-9999px;
+}
+
+.home-cha{
+	height:160px;width:100%;margin:0 auto;clear:both;margin-top:40px;
+}
+
+
+ul li{
+	width:100%;list-style:none;height:40px;line-height:40px;text-align:left;font-weight:bolder;font-size:18px;border-bottom:1px solid #ccc;padding-left:10px;;
+}
+
+
+
+ul  li a{
+	text-decoration: none;
+	color:#333;
+}
+
+h1{
+	font-size:20px; font-weight:bolder;padding-left:20px;margin-top:10px;border-bottom:1px solid #ccc;height:30px;line-height:30px;margin-bottom:10px;font-family: 'Î¢ÈíÑÅºÚ', Georgia, 'Hiragino Keku Gothic Pro';
+}
+
+dt, dd{
+	padding-left:20px;color:#820002;font-size:16px;font-weight:bolder;font-family:"ËÎÌå";
+}
+dd{
+	color:#6a6a6a;margin-bottom:10px;
+}
+
+.moreInfo{
+	text-align:right;padding-right:20px;
+}
+
+.moreInfo a{
+	ccccccc
+}
+
+.xygs .xygsdt a{
+	color:#333;font-size:18px;font-weight:bolder;font-family:"ËÎÌå";text-decoration:none;
+}
+.xygs .xygsdt{
+	color:#6a6a6a;
+}
+
+.xyxznr,.xyxzyj{
+	font-size:16px;font-weight:bolder;font-family:"ËÎÌå";padding-right:10px;
+}
+
+.tzrxx{width:100%;border:1px solid red;}
+ #cha-ttt div { line-height: 42px; font-size: 14px; }
+.cha-1-du-1{width:100%;}
+.cha-1-du td{text-align:left;border:1px solid red;}
